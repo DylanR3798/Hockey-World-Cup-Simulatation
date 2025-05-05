@@ -1,4 +1,4 @@
-# Hockey-World-Cup-Simulatation
+# Hockey-World-Cup-Simulation
 A python-based Hockey simulation with live in-game commentary of events.
 
 # Intoduction
