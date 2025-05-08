@@ -1,0 +1,17 @@
+[project]
+name = "hockey-world-cup"
+version = "1.0.0"
+description = "CLI simulation of the Field Hockey World Cup"
+authors = [
+    { name="Dylan" }
+]
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = []
+
+[project.scripts]
+hockey-world-cup = "hockey_sim.cli:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
