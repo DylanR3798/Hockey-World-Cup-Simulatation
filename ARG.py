@@ -1,3 +1,7 @@
+from hockey_sim.players.goalkeeper import Goalkeeper
+from hockey_sim.players.outfield_player import Outfield_Player
+from hockey_sim.teams.team import Team
+
 Vivaldi = Goalkeeper('Juan Vivaldi', 83, 77, 72, 82)
 Peillat = Outfield_Player('Gonzalo Peillat', 'DF', 70, 89, 78, 73, 79, 67)
 Ortiz = Outfield_Player('Ignacio Ortiz', 'MF', 79, 78, 77, 80, 75, 81)
